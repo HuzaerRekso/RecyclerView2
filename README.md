@@ -1,6 +1,7 @@
 # RecyclerView2
 #Screen Shot Aplikasi
-![ScreenShot](https://github.com/HuzaerRekso/RecyclerView2/blob/master/SS2.PNG "")
+![ScreenShot](https://github.com/HuzaerRekso/RecyclerView2/blob/master/RecyclerView2.1.jpg "")
+![ScreenShot](https://github.com/HuzaerRekso/RecyclerView2/blob/master/RecyclerView2.2.jpg "")
 #BIODATA
 #Nama
 M. Huzaer Rekso J.
